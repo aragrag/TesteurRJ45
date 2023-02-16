@@ -1,10 +1,10 @@
 # Cable Tester RJ45 (Ethernet)
 
-Vérifiez les connexions internes : câble RJ45, câble standard, câble croisé et câbles spéciaux.
+Testeur RJ45 les connexions internes : câble RJ45, câble standard, câble croisé.
 
 # Objets utilisés dans ce projet
 
-- arduino MKR1000
+- Arduino MKR1000
 - 2 x Prise Keystone Cat6 punch down
 - Cables
 
