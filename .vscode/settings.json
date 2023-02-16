@@ -1,0 +1,60 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:/Users/aragr/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/arm-none-eabi-gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:/Users/aragr/.platformio/packages/toolchain-g++armnoneeabi@1.70201.0/bin/arm-none-eabi-gcc.exe",
+  "C_Cpp_Runner.debuggerPath": "C:/Users/aragr/.platformio/packages/toolchain-gdbarmnoneeabi@1.70201.0/bin/arm-none-eabi-gcc.exe",
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++11",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wconversion",
+    "-Wnull-dereference",
+    "-Wsign-conversion"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "C:/Users/aragr/Documents/PlatformIO/Projects/Cable_RJ45_Tester/include",
+    "C:/Users/aragr/Documents/PlatformIO/Projects/Cable_RJ45_Tester/src",
+    "C:/Users/aragr/Documents/PlatformIO/Projects/Cable_RJ45_Tester/.pio/libdeps/mkr1000USB/Ethernet/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/SPI",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated-avr-comp",
+    "C:/Users/aragr/.platformio/packages/framework-cmsis@1.40500.0/CMSIS/Include",
+    "C:/Users/aragr/.platformio/packages/framework-cmsis-atmel/CMSIS/Device/ATMEL",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/cores/arduino",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/variants/mkr1000",
+    "C:/Users/aragr/Documents/PlatformIO/Projects/Cable_RJ45_Tester/.pio/libdeps/mkr1000USB/Unity/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/HID",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/I2S/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/SAMD_AnalogCorrection/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/SAMD_BootloaderUpdater/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/SBU/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/SDU/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/SFU/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/SNU/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/SSU/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/USBHost/src",
+    "C:/Users/aragr/.platformio/packages/framework-arduino-samd/libraries/Wire",
+    ""
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ]
+}
